@@ -40,3 +40,18 @@ header .menu ul li{
 header .menu ul li a{
   text-decoration: none;
 }
+
+.jumbotron{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 500px;
+
+  background-color: #ddea25;
+}
+
+.jumbotron .content{
+  width: 40%;
+
+  background-color: rgb(13, 125, 223);
+}
